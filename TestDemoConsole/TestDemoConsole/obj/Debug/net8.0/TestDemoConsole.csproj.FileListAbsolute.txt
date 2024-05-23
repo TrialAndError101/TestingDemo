@@ -12,3 +12,4 @@ C:\Users\JohnPhilip\source\repos\TestingDemo\TestDemoConsole\TestDemoConsole\obj
 C:\Users\JohnPhilip\source\repos\TestingDemo\TestDemoConsole\TestDemoConsole\obj\Debug\net8.0\TestDemoConsole.pdb
 C:\Users\JohnPhilip\source\repos\TestingDemo\TestDemoConsole\TestDemoConsole\obj\Debug\net8.0\TestDemoConsole.genruntimeconfig.cache
 C:\Users\JohnPhilip\source\repos\TestingDemo\TestDemoConsole\TestDemoConsole\obj\Debug\net8.0\ref\TestDemoConsole.dll
+C:\Users\JohnPhilip\source\repos\TestingDemo\TestDemoConsole\TestDemoConsole\obj\Debug\net8.0\TestDemoConsole.sourcelink.json
