@@ -1,0 +1,14 @@
+C:\Users\JohnPhilip\source\repos\TestingDemo\TestDemoConsole\TestDemoConsole\bin\Debug\net8.0\TestDemoConsole.exe
+C:\Users\JohnPhilip\source\repos\TestingDemo\TestDemoConsole\TestDemoConsole\bin\Debug\net8.0\TestDemoConsole.deps.json
+C:\Users\JohnPhilip\source\repos\TestingDemo\TestDemoConsole\TestDemoConsole\bin\Debug\net8.0\TestDemoConsole.runtimeconfig.json
+C:\Users\JohnPhilip\source\repos\TestingDemo\TestDemoConsole\TestDemoConsole\bin\Debug\net8.0\TestDemoConsole.dll
+C:\Users\JohnPhilip\source\repos\TestingDemo\TestDemoConsole\TestDemoConsole\bin\Debug\net8.0\TestDemoConsole.pdb
+C:\Users\JohnPhilip\source\repos\TestingDemo\TestDemoConsole\TestDemoConsole\obj\Debug\net8.0\TestDemoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JohnPhilip\source\repos\TestingDemo\TestDemoConsole\TestDemoConsole\obj\Debug\net8.0\TestDemoConsole.AssemblyInfoInputs.cache
+C:\Users\JohnPhilip\source\repos\TestingDemo\TestDemoConsole\TestDemoConsole\obj\Debug\net8.0\TestDemoConsole.AssemblyInfo.cs
+C:\Users\JohnPhilip\source\repos\TestingDemo\TestDemoConsole\TestDemoConsole\obj\Debug\net8.0\TestDemoConsole.csproj.CoreCompileInputs.cache
+C:\Users\JohnPhilip\source\repos\TestingDemo\TestDemoConsole\TestDemoConsole\obj\Debug\net8.0\TestDemoConsole.dll
+C:\Users\JohnPhilip\source\repos\TestingDemo\TestDemoConsole\TestDemoConsole\obj\Debug\net8.0\refint\TestDemoConsole.dll
+C:\Users\JohnPhilip\source\repos\TestingDemo\TestDemoConsole\TestDemoConsole\obj\Debug\net8.0\TestDemoConsole.pdb
+C:\Users\JohnPhilip\source\repos\TestingDemo\TestDemoConsole\TestDemoConsole\obj\Debug\net8.0\TestDemoConsole.genruntimeconfig.cache
+C:\Users\JohnPhilip\source\repos\TestingDemo\TestDemoConsole\TestDemoConsole\obj\Debug\net8.0\ref\TestDemoConsole.dll
